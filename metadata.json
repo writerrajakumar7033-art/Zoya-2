@@ -1,0 +1,7 @@
+{
+  "name": "Remix Zoya - AI Voice Assistant",
+  "description": "Zoya - Raja ji's witty, caring AI best friend and voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
